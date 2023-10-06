@@ -1,0 +1,2 @@
+rsync -azhv /path/to/send user@10.x.x.x:/pathto/save
+pwd is your best friend with rsync
